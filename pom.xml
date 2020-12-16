@@ -18,7 +18,7 @@
     <quarkus-plugin.version>1.10.3.Final</quarkus-plugin.version>
     <maven.compiler.source>8</maven.compiler.source>
     <maven.home>$MAVEN_HOME</maven.home>
-    <maven.test.skip>true</maven.test.skip>
+    <maven.test.skip>false</maven.test.skip>
   </properties>
   <dependencyManagement>
     <dependencies>
